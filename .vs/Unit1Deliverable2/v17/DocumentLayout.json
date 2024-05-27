@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cstock\\source\\repos\\Unit1Deliverable2\\",
+  "WorkspaceRootPath": "C:\\Users\\cstock\\Documents\\C# Projects\\Coin Toss\\Unit1-Deliverable2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5057E2CF-F6C9-4284-B707-2DD10A8094EC}|Unit1Deliverable2\\Unit1Deliverable2.csproj|c:\\users\\cstock\\source\\repos\\unit1deliverable2\\unit1deliverable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5057E2CF-F6C9-4284-B707-2DD10A8094EC}|Unit1Deliverable2\\Unit1Deliverable2.csproj|c:\\users\\cstock\\documents\\c# projects\\coin toss\\unit1-deliverable2\\unit1deliverable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5057E2CF-F6C9-4284-B707-2DD10A8094EC}|Unit1Deliverable2\\Unit1Deliverable2.csproj|solutionrelative:unit1deliverable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\Unit1Deliverable2\\Unit1Deliverable2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cstock\\Documents\\C# Projects\\Coin Toss\\Unit1-Deliverable2\\Unit1Deliverable2\\Program.cs",
               "RelativeDocumentMoniker": "Unit1Deliverable2\\Program.cs",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\Unit1Deliverable2\\Unit1Deliverable2\\Program.cs",
+              "ToolTip": "C:\\Users\\cstock\\Documents\\C# Projects\\Coin Toss\\Unit1-Deliverable2\\Unit1Deliverable2\\Program.cs",
               "RelativeToolTip": "Unit1Deliverable2\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAB6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T22:34:41.894Z",
               "EditorCaption": ""

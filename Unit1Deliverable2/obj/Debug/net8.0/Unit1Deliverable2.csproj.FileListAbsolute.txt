@@ -13,3 +13,18 @@ C:\Users\cstock\source\repos\Unit1Deliverable2\Unit1Deliverable2\obj\Debug\net8.
 C:\Users\cstock\source\repos\Unit1Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.pdb
 C:\Users\cstock\source\repos\Unit1Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.genruntimeconfig.cache
 C:\Users\cstock\source\repos\Unit1Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\ref\Unit1Deliverable2.dll
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.AssemblyInfoInputs.cache
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.AssemblyInfo.cs
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.sourcelink.json
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.dll
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\refint\Unit1Deliverable2.dll
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.pdb
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\bin\Debug\net8.0\Unit1Deliverable2.exe
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\bin\Debug\net8.0\Unit1Deliverable2.deps.json
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\bin\Debug\net8.0\Unit1Deliverable2.runtimeconfig.json
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\bin\Debug\net8.0\Unit1Deliverable2.dll
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\bin\Debug\net8.0\Unit1Deliverable2.pdb
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\Unit1Deliverable2.genruntimeconfig.cache
+C:\Users\cstock\Documents\C# Projects\Coin Toss\Unit1-Deliverable2\Unit1Deliverable2\obj\Debug\net8.0\ref\Unit1Deliverable2.dll

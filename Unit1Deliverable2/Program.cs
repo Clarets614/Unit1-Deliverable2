@@ -7,21 +7,24 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello there, What is your name?\n");
+        Console.WriteLine("Hello there, What is your name?");
 
         string name = Console.ReadLine();
 
-        Console.WriteLine("\nThat's a great name " + name + "! \n\n Would you like to play Clare's Coin Flip Challenge?\n");
+        Console.WriteLine($"That's a great name {name}!\nWould you like to play Clare's Coin Flip Challenge?");
+        Console.WriteLine("Please answer yes or no:");
 
         string answerInput = Console.ReadLine().ToLower();
         while (answerInput != "yes" && answerInput != "no")
         {
-            Console.WriteLine("\n I cannot acknowledge that answer. Please answer yes or no");
+            Console.WriteLine("I cannot acknowledge that answer. Please answer yes or no");
             answerInput = Console.ReadLine().ToLower();
         }
         if (answerInput == "yes")
         {
-            Console.WriteLine("\n Fantastic! Lets Play!");
+            Console.WriteLine("Fantastic! Lets Play!");
+            Console.WriteLine("You will be able to flip the coin 5 times.");
+            Console.WriteLine("How many tosses can you win?");
 
 
             int score = 0;
@@ -42,27 +45,29 @@ internal class Program
                 {
                     result = "tails";
                 }
-                Console.WriteLine("\n Flip a coin, heads or tails?");
+                Console.WriteLine("Flip a coin, heads or tails?");
                 string userInput = Console.ReadLine().ToLower();
+                Console.Write($"{i + 1}. ");
 
                 while (userInput != "heads" && userInput != "tails")
                 {
-                    Console.WriteLine("\n Invalid Answer, Please answer heads or tails");
+                    Console.WriteLine("Invalid Answer, Please answer heads or tails");
                     userInput = Console.ReadLine().ToLower();
                 }
                 if (result == userInput)
                 {
-                    Console.WriteLine("\n The coin has flipped to " + result + "! You have won this one " + name + "!", score++);
+                    
+                    Console.WriteLine($"The coin has flipped to {result}! You have won this one {name}!", score++);
                 }
                 else
                 {
-                    Console.WriteLine("\n The coin has flipped to " + result + "! You are incorrect, " + name + ", and you lose.");
+                    Console.WriteLine($"The coin has flipped to {result}! I am sorry to say, {name} that you lose this one.");
                 }
 
 
             }
-            Console.WriteLine("\n Thanks " + name + ", your score is " + score);
-            Console.WriteLine("\n Thank you for playing Clare's Coin Challenge! It has been a pleasure flipping coins with you!");
+            Console.WriteLine($"\n Thanks {name}, your score is {score}.");
+            Console.WriteLine($"\n Thank you for playing Clare's Coin Challenge! It has been a pleasure flipping coins with you!");
 
 
 
@@ -70,7 +75,7 @@ internal class Program
         }
         else
         {
-            Console.WriteLine("I did not take you for a Coward, " + name + ". Very well then.\n Goodbye!");
+            Console.WriteLine($"I did not take you for a Coward, {name}. Very well then.\n Goodbye!");
         }
 
     }

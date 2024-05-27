@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cstock\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cstock\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cstock\\source\\repos\\Unit1Deliverable2\\Unit1Deliverable2\\Unit1Deliverable2.csproj",
+      "projectUniqueName": "C:\\Users\\cstock\\Documents\\C# Projects\\Coin Toss\\Unit1-Deliverable2\\Unit1Deliverable2\\Unit1Deliverable2.csproj",
       "projectName": "Unit1Deliverable2",
-      "projectPath": "C:\\Users\\cstock\\source\\repos\\Unit1Deliverable2\\Unit1Deliverable2\\Unit1Deliverable2.csproj",
+      "projectPath": "C:\\Users\\cstock\\Documents\\C# Projects\\Coin Toss\\Unit1-Deliverable2\\Unit1Deliverable2\\Unit1Deliverable2.csproj",
       "packagesPath": "C:\\Users\\cstock\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cstock\\source\\repos\\Unit1Deliverable2\\Unit1Deliverable2\\obj\\",
+      "outputPath": "C:\\Users\\cstock\\Documents\\C# Projects\\Coin Toss\\Unit1-Deliverable2\\Unit1Deliverable2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\cstock\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
